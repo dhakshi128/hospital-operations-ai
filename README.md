@@ -273,8 +273,6 @@ Predictions → gold_predictions (Delta)
 ## 👩‍💻 Author
 
 **Dhakshitha Herculin C**
-MBA – Business Analytics | SRM University
-CGPA: 9.16 | International Business Analytics Fellow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/dhakshitha-herculin-c-042718172)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/dhakshi128)
